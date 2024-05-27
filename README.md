@@ -20,7 +20,7 @@ This project involves classifying cancer types using logistic regression. The go
 
 **Technologies Used:** Python, Pandas, Scikit-learn
 
-**Notebook:** [CancerClassification.ipynb](CancerClassification.ipynb)
+**Notebook:** [CancerClassification](CancerClassification)
 
 ## Project 2: House Valuations
 
@@ -29,7 +29,7 @@ This project focuses on predicting house valuations using various regression tec
 
 **Technologies Used:** Python, Pandas, Scikit-learn
 
-**Notebook:** [HouseValuations.ipynb](HouseValuations.ipynb)
+**Notebook:** [HouseValuations](HouseValuations)
 
 ## Project 3: Iris Flowers Cluster Analysis
 
@@ -38,7 +38,7 @@ This project uses cluster analysis to classify different species of iris flowers
 
 **Technologies Used:** Python, Pandas, Scikit-learn
 
-**Notebook:** [IrisFlowers.ipynb](IrisFlowers.ipynb)
+**Notebook:** [IrisFlowers](IrisFlowers)
 
 ## Project 4: Movie Budget vs. Revenue
 
@@ -47,7 +47,7 @@ This project analyzes the relationship between movie budgets and their revenue. 
 
 **Technologies Used:** Python, Pandas, Scikit-learn
 
-**Notebook:** [MovieBudget-Revenue(LinearRegression).ipynb](MovieBudget-Revenue(LinearRegression).ipynb)
+**Notebook:** [MovieBudget-Revenue(LinearRegression)](MovieBudget-Revenue(LinearRegression))
 
 ## Project 5: Nobel Prize Analysis
 
@@ -56,7 +56,7 @@ This project analyzes data related to Nobel Prize winners to identify trends and
 
 **Technologies Used:** Python, Pandas, Matplotlib, Seaborn
 
-**Notebook:** [NobelPrizeAnalyse.ipynb](NobelPrizeAnalyse.ipynb)
+**Notebook:** [NobelPrizeAnalyse](NobelPrizeAnalyse)
 
 ## Project 6: Diabetes Regression
 
@@ -66,8 +66,8 @@ This project involves predicting diabetes progression using regression models. V
 **Technologies Used:** Python, Pandas, Scikit-learn
 
 **Notebooks:**
-- [Diabetes Logistic Regression](diabetes_log_regression.ipynb)
-- [Diabetes Regression](diabetes_regression.ipynb)
+- [Diabetes Logistic Regression](diabetes_log_regression)
+- [Diabetes Regression](diabetes_regression)
 
 ## Project 7: Titanic Survival Prediction
 
@@ -76,7 +76,7 @@ This project uses machine learning to predict the survival of passengers on the 
 
 **Technologies Used:** Python, Pandas, Scikit-learn
 
-**Notebook:** [Titanic.ipynb](titanic.ipynb)
+**Notebook:** [Titanic](titanic)
 
 ## Contact
 
