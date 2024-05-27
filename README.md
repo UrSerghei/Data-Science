@@ -4,13 +4,13 @@ Welcome to my Data Science Projects repository! This repository contains a colle
 
 ## Table of Contents
 
-1. [Cancer Classification](#cancer-classification)
-2. [House Valuations](#house-valuations)
-3. [Iris Flowers Cluster Analysis](#iris-flowers-cluster-analysis)
-4. [Movie Budget vs. Revenue](#movie-budget-vs-revenue)
-5. [Nobel Prize Analysis](#nobel-prize-analysis)
-6. [Diabetes Regression](#diabetes-regression)
-7. [Titanic Survival Prediction](#titanic-survival-prediction)
+1. [Cancer Classification](#project-1-cancer-classification)
+2. [House Valuations](#project-2-house-valuations)
+3. [Iris Flowers Cluster Analysis](#project-3-iris-flowers-cluster-analysis)
+4. [Movie Budget vs. Revenue](#project-4-movie-budget-vs-revenue)
+5. [Nobel Prize Analysis](#project-5-nobel-prize-analysis)
+6. [Diabetes Regression](#project-6-diabetes-regression)
+7. [Titanic Survival Prediction](#project-7-titanic-survival-prediction)
 8. [Contact](#contact)
 
 ## Project 1: Cancer Classification
