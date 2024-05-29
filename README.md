@@ -69,12 +69,12 @@ This project involves predicting diabetes progression using regression models. V
 - [Diabetes Logistic Regression](diabetes_log_regression)
 - [Diabetes Regression](diabetes_regression)
 
-## Project 7: Titanic Survival Prediction
+## Project 7: Titanic EDA
 
 **Description:**
-This project uses machine learning to predict the survival of passengers on the Titanic. It employs various classification algorithms to determine the likelihood of survival based on passenger data.
+ This project aims to conduct an in-depth analysis of the Titanic dataset, exploring various aspects of the passengers onboard and their survival outcomes.
 
-**Technologies Used:** Python, Pandas, Scikit-learn
+**Technologies Used:** Python, Pandas
 
 **Notebook:** [Titanic](titanic)
 
