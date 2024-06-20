@@ -56,7 +56,7 @@ This project analyzes data related to Nobel Prize winners to identify trends and
 
 **Technologies Used:** Python, Pandas, Matplotlib, Seaborn
 
-**Notebook:** [NobelPrizeAnalyse](NobelPrizeAnalyse)
+**Notebook:** [NobelPrizeAnalysis](NobelPrizeAnalysis)
 
 ## Project 6: Diabetes Regression
 
